@@ -1,0 +1,57 @@
+{
+  "entrevista": {
+    "total_entrevistados": 1000000,
+    "resultados": [
+      {
+        "time": "Real Madrid",
+        "torcedores": 350000,
+        "porcentagem": 35.0
+      },
+      {
+        "time": "Liverpool",
+        "torcedores": 200000,
+        "porcentagem": 20.0
+      },
+      {
+        "time": "Barcelona",
+        "torcedores": 150000,
+        "porcentagem": 15.0
+      },
+      {
+        "time": "Bayern de Munique",
+        "torcedores": 100000,
+        "porcentagem": 10.0
+      },
+      {
+        "time": "AC Milan",
+        "torcedores": 80000,
+        "porcentagem": 8.0
+      },
+      {
+        "time": "Chelsea",
+        "torcedores": 50000,
+        "porcentagem": 5.0
+      },
+      {
+        "time": "Ajax",
+        "torcedores": 30000,
+        "porcentagem": 3.0
+      },
+      {
+        "time": "Manchester United",
+        "torcedores": 25000,
+        "porcentagem": 2.5
+      },
+      {
+        "time": "Inter de Milão",
+        "torcedores": 15000,
+        "porcentagem": 1.5
+      },
+      {
+        "time": "Benfica",
+        "torcedores": 10000,
+        "porcentagem": 1.0
+      }
+    ]
+  }
+}
